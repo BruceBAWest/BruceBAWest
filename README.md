@@ -100,3 +100,5 @@
   <strong>Building serious AI—or studying what makes it work?</strong><br>
   <a href="https://brucebawest.com/contact/">Send a direct inquiry</a>
 </p>
+
+<!-- profile-readme: BruceBAWest -->
