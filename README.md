@@ -56,16 +56,16 @@
 <!-- FIELD-NOTES:START -->
 <table>
   <tr>
+    <td width="22%" valign="top"><code>AUG 3, 2026</code><br><sub>HUMAN-CENTERED AI · 13 MIN</sub></td>
+    <td valign="top"><a href="https://brucebawest.com/blog/a-follower-is-not-an-audience/"><strong>A follower is not an audience</strong></a><br>A LinkedIn post received 42 impressions from a profile with roughly 16,500 followers while the platform offered paid amplification. The episode exposes a larger problem: professional visibility has become an opaque market for attention.</td>
+  </tr>
+  <tr>
     <td width="22%" valign="top"><code>JUL 29, 2026</code><br><sub>AI ENGINEERING · 9 MIN</sub></td>
     <td valign="top"><a href="https://brucebawest.com/blog/the-first-deliverable-from-generative-coding-should-be-understanding/"><strong>The first deliverable from generative coding should be understanding</strong></a><br>Federal modernization will gain more from generative coding systems when they first make legacy estates legible—mapping dependencies, preserving rationale, and exposing risk before proposing change.</td>
   </tr>
   <tr>
     <td width="22%" valign="top"><code>JUL 17, 2026</code><br><sub>CYBERSECURITY · 13 MIN</sub></td>
     <td valign="top"><a href="https://brucebawest.com/blog/the-cmmc-pause-is-an-organizational-knowledge-test/"><strong>The CMMC suspension is an organizational knowledge test</strong></a><br>The CMMC Phase II suspension lowers the immediate pressure of third-party certification, but it does not remove the obligation to protect defense data—or the need to preserve the organizational knowledge built around that work.</td>
-  </tr>
-  <tr>
-    <td width="22%" valign="top"><code>JUL 15, 2026</code><br><sub>AI STRATEGY · 4 MIN</sub></td>
-    <td valign="top"><a href="https://brucebawest.com/blog/from-signals-to-strategic-options/"><strong>From signals to strategic options</strong></a><br>How agentic AI can help turn scattered external change into evidence-backed innovation options without replacing strategic judgment.</td>
   </tr>
 </table>
 <!-- FIELD-NOTES:END -->
